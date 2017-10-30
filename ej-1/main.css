@@ -1,0 +1,21 @@
+.big-square {
+    background-color: red;
+    width: 400px;
+    height: 400px;
+    position: relative;
+}
+
+.medium-square {
+    background-color: purple;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    bottom: 80px;
+    right: 80px;
+}
+.small-square {
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    position: relative;
+}

@@ -1,0 +1,22 @@
+.big-square {
+    background-color: blue;
+    width: 400px;
+    height: 400px;
+    position: relative;
+}
+
+.medium-square {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+
+}
+.small-square {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
